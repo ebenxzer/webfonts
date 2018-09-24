@@ -1,7 +1,7 @@
 @font-face {
-font-family: ‘Gotham Rounded Medium’;
-src: url('https://raw.githubusercontent.com/ebenxzer/webfonts/blob/master/Gotham%20Rounded/GothamRounded-Medium.eot’);
-src: url('https://raw.githubusercontent.com/ebenxzer/webfonts/blob/master/Gotham%20Rounded/GothamRounded-Medium.eot?#iefix') format('embedded-opentype');
-font-weight: 100;
-font-style: normal;
+    font-family: ‘Gotham Rounded Medium’;
+    src: url('https://raw.githubusercontent.com/ebenxzer/webfonts/blob/master/font/Gotham%20Rounded/GothamRounded-Medium.eot’);
+    src: url('https://raw.githubusercontent.com/ebenxzer/webfonts/blob/master/font/Gotham%20Rounded/GothamRounded-Medium.eot?#iefix') format('embedded-opentype');
+    font-weight: 100;
+    font-style: normal;
 }
